@@ -96,7 +96,7 @@ class HomePageState extends State<HomePage> {
                     Text('cm')
                   ]),
               Slider(
-                  min: 180.0,
+                  min: 145.0,
                   max: 280,
                   value: height.toDouble(),
                   inactiveColor: Colors.black,
